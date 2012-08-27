@@ -21,8 +21,6 @@ namespace CodePortingCSharp2Java
         /// </summary>
   public string text= "new text here";
   public static string Token = string.Empty;   
-  private int x = 200;  //okay test
- public int y = 2;
-               		
+  private int x = 200;  //test              		
     }
 }
